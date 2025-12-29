@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'Medium'; /* Choose a descriptive name for your font */
-    src: url('styleassets/medium.otf') format('opentype'); /* Specify the path and format */
+    src: url('medium.otf') format('opentype'); /* Specify the path and format */
     font-weight: normal; /* Define the weight (normal, bold, etc.) */
     font-style: normal; /* Define the style (normal, italic, etc.) */
 }
