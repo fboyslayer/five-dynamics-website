@@ -31,6 +31,12 @@ p {
   margin-right: 4%;
 }
 
+.icon-left {
+  float: left;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
 background-color: black;
