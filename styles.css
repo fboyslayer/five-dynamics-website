@@ -7,6 +7,10 @@
     font-style: normal; /* Define the style (normal, italic, etc.) */
 }
 
+body {
+  background-color: black;
+}
+
 h1, h2, h3 {
   font-family: "Medium", serif;
   font-optical-sizing: auto;
@@ -22,7 +26,7 @@ p {
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;  
-  color: black;
+  color: white;
   margin-left: 4%;
   margin-right: 4%;
 }
