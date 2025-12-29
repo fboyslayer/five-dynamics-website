@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@font-face {
+    font-family: 'Medium'; /* Choose a descriptive name for your font */
+    src: url('styleassets/medium.otf') format('opentype'); /* Specify the path and format */
+    font-weight: normal; /* Define the weight (normal, bold, etc.) */
+    font-style: normal; /* Define the style (normal, italic, etc.) */
+}
+
+h1, h2, h3 {
+  font-family: "Medium", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;  
+  color: #FD2025;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+
+p {
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;  
+  color: black;
+  margin-left: 4%;
+  margin-right: 4%;
+}
