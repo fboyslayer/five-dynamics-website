@@ -44,6 +44,12 @@ a {
   margin-top: 2px;
 }
 
+.image-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
 background-color: black;
