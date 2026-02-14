@@ -50,9 +50,11 @@ a {
   margin-right: auto;
 }
 
-.image-float-center {
-  display: inline-block;
-  text-align: center
+.image-row {
+  display: flex;
+  justify-content: center; /* centers horizontally */
+  align-items: center;     /* centers vertically */
+  gap: 20px;                /* spacing between images */
 }
 
 /* Add a black background color to the top navigation */
