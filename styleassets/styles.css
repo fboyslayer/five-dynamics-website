@@ -44,8 +44,8 @@ a {
   margin-top: 2px;
 }
 
-.image-center {
-  display: block;
+.image-float {
+  display: inline;
   margin-left: auto;
   margin-right: auto;
 }
