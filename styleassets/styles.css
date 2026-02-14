@@ -93,6 +93,8 @@ overflow: hidden;
     "footer footer";
   height: auto;
   max-width: 75vw;
+  margin-left: auto;
+  margin-right: auto;    
   box-sizing: border-box;
   align-content: start;
   grid-template-columns: 1fr 1fr;
