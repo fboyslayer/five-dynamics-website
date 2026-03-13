@@ -44,6 +44,12 @@ a {
   margin-top: 2px;
 }
 
+.image-left {
+  display: block;
+  margin-left: 5%;
+  margin-right: auto;
+}
+
 .image-center {
   display: block;
   margin-left: auto;
